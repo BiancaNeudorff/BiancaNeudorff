@@ -2,7 +2,7 @@
 <br>
 &times; I am currently working as a front end intern. 
 <br>
-&times; I am learning HTML, CSS e JavaScript.
+&times; I am learning HTML, CSS e Javascript.
 <br>
 &times; Living in Curitiba, PR, BR
 <br>
